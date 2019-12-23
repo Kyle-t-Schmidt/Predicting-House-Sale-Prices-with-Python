@@ -16,7 +16,7 @@ For this project I used a combination of knowledge in statistics and compter sci
 * Cross Validation
 * Regression model building
 
-## Program Purpose
+## Program purpose
 The House Prices: Advanced Regression Techniques Kaggle competition provides a data set with 79 variables describing houses sold in Ames, Iowa. Sale prices are provided for half of the data to train a regression algorithm and sale prices are withheld on the other half for testing. After creating an algorithm and predicitng the house sale prices on the test data set, submissions are stored in csv format, uploaded to kaggle and scored with the root mean square error (rmse).
 
 
