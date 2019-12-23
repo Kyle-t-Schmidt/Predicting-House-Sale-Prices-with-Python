@@ -23,6 +23,6 @@ The House Prices: Advanced Regression Techniques Kaggle competition provides a d
 ## Using the program
 The Jupyter notebook (ipynb file) contains all python code and explanation of the process. In order to run the code you will need to follow these steps:
 * download the test.csv and train.csv files and store them locally on your computer
-* update the file paths in the first and last code blocks to the location where the test and train files are located.
-* Running all code in the Jupyter notebook will produce a csv file tha can be submitted in the kaggle competition.
-  * note: This notebook is computationally heavy and will take several minutes to run.
+* update the file paths in the first and last code blocks of the Jupyter notebook to the location where the test and train files are located.
+* Running all code in the Jupyter notebook will produce a csv file that can be submitted in the kaggle competition.
+  * note: This notebook is computationally heavy and will take a minute or so to run.
