@@ -1,7 +1,7 @@
 # Predicting-House-Sale-Prices-with-Python
 
 ## Introduction
-I participated in the House Prices: Advanced Regression Techniques Kaggle competition as a side project. The code in this Jupyter notebook resulted in a RMSE score of 0.12402 and a ranking in the top 8% of competition participants. This repository contains a jupyter notebook with the python code and process description, the train data, the test data and a txt file with descriptions of the variables. The competition can be found here:  [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) and you can verify my score by searching the leaderbaord for Kyle-t-Schmidt.
+I participated in the House Prices: Advanced Regression Techniques Kaggle competition as a side project. The code in this Jupyter notebook resulted in a RMSE score of 0.12402 and a ranking in the top 8% of competition participants. This repository contains a jupyter notebook with the python code and process description, the train data, the test data and a txt file with descriptions of the variables. The competition can be found here:  [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques).
 
 For this project I used a combination of knowledge in statistics and compter science. In this Jupyter notebook I demonstrate:
 * Python for data science
